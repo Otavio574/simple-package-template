@@ -1,0 +1,4 @@
+matplotlib
+numpy
+pytest
+scikit-image >= 0.16.1
